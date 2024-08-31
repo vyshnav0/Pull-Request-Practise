@@ -32,9 +32,9 @@
 ### **Step 4: Make Your Changes**
 1. **Open the project folder** in your preferred code editor.
 2. **Find the list of users** in the `index.html` file.
-3. **Replace an existing item** (like `Item 1`) with your name and GitHub ID:
+3. **Add your name and GitHub ID to the list:
    ```html
-   <li>Vyshnav K - vyshnavk.github</li>
+   <li><a href="https://github.com/your-username">Your Name</a></li>
    ```
 4. **Save your changes.**
 
@@ -50,7 +50,7 @@
    ```
 4. **Commit your changes** with a meaningful message:
    ```bash
-   git commit -m "Added Vyshnav K to the list of contributors"
+   git commit -m "Added (your name) to the list of contributors"
    ```
 
 ### **Step 6: Push Your Changes to GitHub**
